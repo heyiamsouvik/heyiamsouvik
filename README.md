@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Majhi</h1>
-<h3 align="center">A passionate Full Stack & Cloud Developer from India 👨‍💻</h3>
+<h3 align="center">A passionate Full Stack & GENAI Developer from India 👨‍💻</h3>
 <p align="center"> <a href="https://twitter.com/heyiamsouvik" target="blank"><img src="https://img.shields.io/twitter/follow/heyiamsouvik?logo=twitter&style=for-the-badge" alt="heyiamsouvik" /></a> </p>
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJtczAyM24zZWhhM3Vpb3R3ZXF4NTBwdmNvanRmZHhxMXRtdm1iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"
